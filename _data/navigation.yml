@@ -2,10 +2,10 @@
 main:
   - title: "Github"
     icon: "fab fa-fw fa-github"
-    url: https://github.com/
+    url: https://github.com/cwenyi
   - title: "LinkedIn"
     icon: "fab fa-fw fa-linkedin"
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/wenyi-christopher-chen-576b28127/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
