@@ -103,15 +103,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Christopher(Wenyi) Chen"
+  avatar           : "/assets/images/Headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Master of Science in Quantitative Finance and Risk Management | University of Michigan"
   location         : "Ann Arbor, Michigan"
   email            : #email@umich.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:email@umich.edu"
+      url: "mailto:cwenyi@umich.edu"
     - label: "University Profile"
       icon: "fas fa-fw fa-link"
       url: "https://lsa.umich.edu/math/people/quant/2018.html"
@@ -123,10 +123,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cwenyi"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/wenyi-christopher-chen-576b28127/"
 
 # Site Footer
 footer:
